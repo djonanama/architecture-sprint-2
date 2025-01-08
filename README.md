@@ -26,3 +26,6 @@ bash init.sh
 ```shell
 bash check.sh
 ```
+
+##  Файл draw.io
+https://drive.google.com/file/d/18sUZ5ulj74nedzePLa27m7QNq5giUtfQ/view?usp=sharing
