@@ -2,11 +2,6 @@
 
 ## Как запустить
 
-Нужно перейти в каталог sharding-repl-cache
-```shell
-cd sharding-repl-cache
-```
-
 Запускаем mongodb и приложение
 
 ```shell
